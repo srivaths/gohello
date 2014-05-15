@@ -8,6 +8,6 @@ func main() {
 	z := "How"
 
 	fmt.Println(x)
-  fmt.Println(y)
-  fmt.Println(z)
+	fmt.Println(y)
+	fmt.Println(z)
 }
