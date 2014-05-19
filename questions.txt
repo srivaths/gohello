@@ -1,0 +1,5 @@
+* If the length of a slice can grow why does the make function
+    make([]int, length, capacity)
+  take a third argument?
+* How to print an array using Printf
+    fmt.Printf("z[] = %?", z)
